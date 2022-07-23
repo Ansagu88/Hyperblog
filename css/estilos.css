@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: #272930;
     color: #325;
     text-align: center;
     font-family: "Arial";
@@ -33,6 +33,7 @@ body
 }
 #container
 {
+    background: white;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -44,8 +45,10 @@ body
 {
     font-size: 20px;
 }
-#post
+#footer
 {
-    background: white;
-    padding: 1em;
+    background: rgb(61, 194, 61);
+    color: white;
+    text-align: center;
+    padding: 0.5rem;
 }
