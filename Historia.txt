@@ -1,4 +1,12 @@
 Esta es la historia de Andres.
 
 Tiene 33 Años y nacio en Vzla.
+<<<<<<< HEAD
   Master 1 en echarle bolas a todo
+=======
+
+
+ Atencion: Experimento de rebase 1
+
+ 
+>>>>>>> 67e2aa2 (Experimento)
