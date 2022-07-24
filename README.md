@@ -14,4 +14,6 @@ En este curso hemos visto de todo:
 
 ### Nota: Este Readme es un ejemplo del curso, no lo tomes en serio.
 
-# Creado por el increible pequeño andres
+Ejemplo de stash 
+
+Seguimos con el ejemplo de prueba porque esto es muy divertido, y mejoramos con la practica
